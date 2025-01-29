@@ -1,0 +1,2 @@
+# Type Error in TypeScript Function
+This repository demonstrates a common type error in TypeScript.  The `add` function is defined to accept two numbers and return their sum. However, the example call passes a string as the first argument.  The solution shows how to fix this type error by correctly typing the input parameters and adding input validation.
